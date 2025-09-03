@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Multi-Request Payload Override
 // @namespace    https://github.com/ydoung/tampermonkey
-// @version      2.0.0
+// @version      1.0.0
 // @description  Override multiple HTTP request responses with custom payloads
 // @author       ydoung
 // @match        *://*.qualtrics.com/*
 // @match        *://qualtrics.com/*
 // @grant        none
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/ydoung/tampermonkey/main/tampermonkey.user.js
-// @downloadURL  https://raw.githubusercontent.com/ydoung/tampermonkey/main/tampermonkey.user.js
+// @updateURL    https://github.com/ydoung/tampermonkey/raw/main/tampermonkey-github.user.js
+// @downloadURL  https://github.com/ydoung/tampermonkey/raw/main/tampermonkey-github.user.js
 // ==/UserScript==
 
 (function () {
