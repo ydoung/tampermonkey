@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Payload Override (DXA in-product trial demo)
 // @namespace    https://github.com/ydoung/tampermonkey
-// @version      1.0.2
+// @version      1.0.3
 // @description  Override multiple HTTP request responses with custom payloads
 // @author       ydoung
 // @match        *://*.qualtrics.com/*
